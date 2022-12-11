@@ -1,0 +1,1 @@
+[Reach fast](https://www.codechef.com/DEC221D/problems/REACHFAST)
