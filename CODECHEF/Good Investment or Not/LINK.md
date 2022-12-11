@@ -1,0 +1,1 @@
+[Good Investment or Not](https://www.codechef.com/DEC221D/problems/INVESTMENT)
