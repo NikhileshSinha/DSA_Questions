@@ -1,5 +1,6 @@
 class Solution {
     public int climbStairs(int n) {
+        // Fibonacci Series
         int a, b, sum = 0;
         a = 0;
         b = 1;
@@ -9,7 +10,7 @@ class Solution {
             a = b;
             b = sum;
         }
-
+        
         return sum;
     }
 }
