@@ -5,3 +5,8 @@ The purpose of this repository is to answer questions from many coding platforms
 --------------------------
 
 ![](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+
+Visitors Count
+------------------
+
+<img align="left" src = "https://profile-counter.glitch.me/DSA_Questions/count.svg" alt ="Loading">
